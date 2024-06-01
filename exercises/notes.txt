@@ -1,0 +1,4 @@
+Hardest sections in my opinion:
+1. Iterators
+2. Errors
+3. Enums
